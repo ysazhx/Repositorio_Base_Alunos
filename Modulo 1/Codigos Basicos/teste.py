@@ -1,0 +1,11 @@
+nome = input("Digite seu nome: ")
+idade = int(input("Digite sua idade: "))
+cpf = input("Digite seu cpf: ")
+data_nascimento = input("Digite sua data de nascimento: ")
+
+print("----------------------------")
+print("Seu nome é:",nome)
+print("Sua idade é:",idade)
+print("Seu cpf é:",cpf)
+print("Sua data de nascimento é:",data_nascimento)
+print("----------------------------")
